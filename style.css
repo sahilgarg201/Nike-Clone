@@ -302,7 +302,7 @@ body{
 }
 */
 
-/*#bottom{
+#bottom{
     background-image:url("bottom.jpg");
     
     flex-direction:row;
